@@ -1,4 +1,4 @@
-# Hi there! 👾 I'm Siddharth Pandey
+# Hi there! 👾 I'm Siddharth Pandey 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Open+Source;Aspiring+Full+Stack+Developer;Currently+Learning+Backend;Always+Learning+New+Things)](https://git.io/typing-svg)
 
